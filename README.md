@@ -16,8 +16,6 @@
 
 &nbsp;
 
-A Passionate Full Stack Developer ⚡ and a Engineering Undergrad in TCET 🎓. I love building cool stuffs and exploring new technologies. Interested in Cloud computing ☁️, DevOps, Open Source 📜, Innovation and Automation 🤖
-
 - 🌱 I’m currently learning **Flutter & Andriod**
 - 👯 I’m looking to collaborate on Web Dev Projects
 - 💬 Ask me about anything I'm happy to help
