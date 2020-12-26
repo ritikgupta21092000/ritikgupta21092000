@@ -16,6 +16,8 @@
 
 &nbsp;
 
+I am a Full Stack Developer and currently working on MEAN and MERN stack. I love to build new stuffs and learning new things as per technology change. I am currently doing my undergradution from TCET.
+
 - 🌱 I’m currently learning **Flutter & Andriod**
 - 👯 I’m looking to collaborate on Web Dev Projects
 - 💬 Ask me about anything I'm happy to help
