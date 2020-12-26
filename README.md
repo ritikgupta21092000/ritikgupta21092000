@@ -1,4 +1,4 @@
-## Hi, I'm [Ritik Gupta!](https://ritikgupta21092000.github.io/personal_info/) 👋
+## Hi, I'm [Ritik Gupta!](https://guptaritik349.wixsite.com/ritikgupta) 👋
 
 <br />
 <a href="https://twitter.com/RitikGu15407575">
